@@ -58,7 +58,7 @@
   "devDependencies": {
     "grunt": "^1.0.3",
     "grunt-continue": "0.1.0",
-    "grunt-contrib-clean": "~1.1.0",
+    "grunt-contrib-clean": "^2.0.1",
     "grunt-contrib-jshint": "3.2.0",
     "grunt-contrib-nodeunit": "^5.0.0",
     "grunt-contrib-watch": "^1.1.0",
@@ -67,7 +67,6 @@
     "tslint": "^5.20.1",
     "typescript": "^5.1.6"
   },
-  "optionalDependencies": {},
   "keywords": [
     "grunt",
     "gruntplugin",

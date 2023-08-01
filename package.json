@@ -60,7 +60,7 @@
     "grunt-continue": "0.1.0",
     "grunt-contrib-clean": "~1.1.0",
     "grunt-contrib-jshint": "1.1.0",
-    "grunt-contrib-nodeunit": "^2.0.0",
+    "grunt-contrib-nodeunit": "^5.0.0",
     "grunt-contrib-watch": "^1.1.0",
     "grunt-tslint": "4.0.1",
     "jshint-path-reporter": "~0.1.3",
